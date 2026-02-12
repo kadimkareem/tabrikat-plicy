@@ -14,7 +14,7 @@ Netlify starter that's made for customization with a flexible content model, com
 - [Setting Up Algolia Search](#setting-up-algolia-search)
 - [Next Steps](#next-steps)
 - [Support](#support)
-
+Deploy to Netlify is good appraoch
 ## Deploying to Netlify
 
 If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
