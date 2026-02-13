@@ -16,7 +16,7 @@ Netlify starter that's made for customization with a flexible content model, com
 - [Support](#support)
 Deploy to Netlify is good appraoch
 ## Deploying to Netlify
-
+ this is commit 2 
 If you click "Deploy to Netlify" button, it will create a new repo for you that looks exactly like this one, and sets that repo up immediately for deployment on Netlify.
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/content-ops-starter)
