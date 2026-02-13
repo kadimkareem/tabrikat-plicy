@@ -7,7 +7,7 @@ Netlify starter that's made for customization with a flexible content model, com
 **⚡ View demo:** [https://content-ops-starter.netlify.app/](https://content-ops-starter.netlify.app/)
 
 ## Table of Contents
-
+this is commit 1 from commit 2
 - [Deploying to Netlify](#deploying-to-netlify)
 - [Develop with Netlify Visual Editor Locally](#develop-with-netlify-visual-editor-locally)
 - [Building for production](#building-for-production)
